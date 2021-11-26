@@ -30,7 +30,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .wrap {
   margin: 0 auto;
   position: relative;
